@@ -1,0 +1,7 @@
+name: 'github-hello-world'
+channels:
+    - conda-forge
+dependencies:
+    - python=3.11.9
+    - numpy==1.26.4
+    - opencv=4.10.0
